@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá pessoal 👋
 
-<!--
-**Leo-LBD/Leo-LBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<! --
+Me chamo Leonardo Basílio Diniz
 
-Here are some ideas to get you started:
+Trabalho em uma empresa de logistica como Sup Técnico de TI Jr.
+Curso Ciência da Computação na Universidade Paulista (UNIP) de Campinas (Swift)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tenho conhecimento em:
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />]
+          
+
+## Estou aprendendo:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />] [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />]
+          
 -->
