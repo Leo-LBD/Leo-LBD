@@ -2,7 +2,7 @@
 
 Me chamo Leonardo Basílio Diniz
 
-- Trabalho em uma empresa de logistica como Sup Técnico de TI Jr.
+- Trabalho em uma empresa de logistica como Técnico de Suporte TI.
 - Curso Ciência da Computação na Universidade Paulista (UNIP) de Campinas (Swift)
 
 ## Tenho conhecimento em:
