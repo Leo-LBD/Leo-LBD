@@ -1,5 +1,7 @@
 ## Olá pessoal 👋
 
+Obs.: Ainda estou trabalhando na tela de apresentação
+
 Me chamo Leonardo Basílio Diniz
 
 - Trabalho em uma empresa de logistica como Técnico de Suporte TI;
@@ -13,5 +15,3 @@ Me chamo Leonardo Basílio Diniz
 
 ## Estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
